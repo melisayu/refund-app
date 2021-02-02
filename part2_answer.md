@@ -1,0 +1,7 @@
+**What is according to you a well designed web application and why? Please share the link. How can they make it even better? What is a (typical) way in which they could have made it worse?**
+
+A well designed web application is the one that has balance and harmony between users and builders/maintainers. For users it should be efficient, fast, clean, easy to read and easy to look for information, and secure. For developers it should have clean and readable codes, consistent styling, and not messily nested HTML.
+
+From user’s perspective, I like [Google](https://www.google.com) and [Duckduckgo](https://www.duckduckgo.com) homepage because they are concise and simple, yet have very complex machinery behind. They could have made it worse if they put irrelevant/unimportant informations/links.
+I also like the interface of [AirBnB](https://www.airbnb.com). It is pretty and clean, has necessary filters, and easy to navigate. But they can do more work on the performance and give more explanation about things those are unclear (like payments, why do they need user’s informations, etc). Some self-explanatory contents are good, but some parts of the website are better to be explained clearly.
+They could have made it worse if they give tons of irrelevant contents and unimportant features, and if they don’t fix bugs or not trying to maintain and improve their user experience. A few years ago airbnb still had bad responsiveness but I think they have been improving now.
