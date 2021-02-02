@@ -1,0 +1,19 @@
+@media screen and (min-width: 550px) {
+  .qr-reader {
+    font-size: 10px;
+    section {
+      width: 80% !important;
+      padding-top: 70% !important;
+      margin: auto;
+    }
+  }
+}
+
+@media only screen and (min-width: 1080px) {
+  .qr-reader {
+    .section {
+      width: 65% !important;
+      padding-top: 65% !important;
+    }
+  }
+}

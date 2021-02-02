@@ -1,0 +1,25 @@
+.card-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  border-radius: 8px;
+  margin: 10px 0;
+  box-shadow: 8px 8px 16px 2px #60b1b9;
+  padding: 1em;
+  background-color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+
+  .card-info {
+    align-self: center;
+    margin: 0.4em;
+  }
+
+  .card-info.status {
+    span {
+      background: #4abba1;
+      color: white;
+      padding: 4px;
+      border-radius: 4px;
+    }
+  }
+}

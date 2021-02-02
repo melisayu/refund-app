@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+
+  .logo-wrapper {
+    display: flex;
+    background-color: #6bcce8;
+    padding: 2em;
+    border-top-left-radius: 8px;
+
+    .logo {
+      width: 3.5em;
+      border-radius: 50%;
+    }
+  
+    p {
+      font-size: 3em;
+      margin: 0 20px;
+      font-weight: 800;
+      color: white;
+    }
+  }
+}

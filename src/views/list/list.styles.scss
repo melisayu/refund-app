@@ -1,0 +1,22 @@
+.list-wrapper {
+  background-color: #6bcce8;
+  position: relative;
+  padding: 2em;
+  padding-top: 1em;
+
+  .add-button {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+
+  h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .list-wrapper {
+    padding: 1em 2em;
+  }
+}
